@@ -1,6 +1,6 @@
 # Aggregation Tree
 
-模擬感知器網路透過data aggregation在有限封包大小下傳輸資料給接收端(接受端的ID為0，也就是aggregation tree的root)。  
+模擬感知器網路透過data aggregation在有限封包大小下傳輸資料給接收端(接受端的ID為0，也就是aggregation tree的root)。     
 計算總封包成本，成本越小越好(此問題為NP-hard)  
 
 
